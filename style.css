@@ -22,6 +22,6 @@ label {
   margin-bottom: 10px;
 }
 
-:focus {
+textarea:focus {
   border-color: green;
 }
